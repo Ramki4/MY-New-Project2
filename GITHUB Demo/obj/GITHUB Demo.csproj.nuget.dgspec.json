@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\inredd00\\OneDrive - Ingram Micro\\Desktop\\Dot Net data\\Naresh IT Technologies\\GITHUB Demo\\GITHUB Demo\\GITHUB Demo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\inredd00\\OneDrive - Ingram Micro\\Desktop\\Dot Net data\\Naresh IT Technologies\\GITHUB Demo\\GITHUB Demo\\GITHUB Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\inredd00\\OneDrive - Ingram Micro\\Desktop\\Dot Net data\\Naresh IT Technologies\\GITHUB Demo\\GITHUB Demo\\GITHUB Demo.csproj",
+        "projectName": "GITHUB Demo",
+        "projectPath": "C:\\Users\\inredd00\\OneDrive - Ingram Micro\\Desktop\\Dot Net data\\Naresh IT Technologies\\GITHUB Demo\\GITHUB Demo\\GITHUB Demo.csproj",
+        "packagesPath": "C:\\Users\\inredd00\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\inredd00\\OneDrive - Ingram Micro\\Desktop\\Dot Net data\\Naresh IT Technologies\\GITHUB Demo\\GITHUB Demo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\inredd00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
